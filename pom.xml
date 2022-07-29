@@ -115,10 +115,11 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.github.Slimefun</groupId>
+            <groupId>io.github.Slimefun</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>2c4f886</version>
-            <scope>provided</scope>
+            <version>RC-28</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/libs/Slimefunv4.9-CYT.jar</systemPath>
         </dependency>
 
         <!-- Tools etc. -->
